@@ -19,7 +19,7 @@ Options
 
 ## building
 
-Clone the repo. `cd` into the project folder. Run: 
+Clone the repo (with `--recurse-submodules` or `--recursive` or whatever those crazy kids are doing nowadays). `cd` into the project folder. Run: 
 
 ```shell
 mkdir build && cd build && cmake .. && make
